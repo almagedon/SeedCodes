@@ -1,0 +1,9 @@
+*.pyc 
+*.sqlite3 
+files/
+data/
+env/
+local/
+node_modules
+*.lock
+*.log
